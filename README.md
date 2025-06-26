@@ -1,6 +1,5 @@
-# Translate README.md and other markdown contents into English
 
-readme_en = """# 💼 QA Manual Testing Portfolio – Selfi Rizky Handayani
+# 💼 QA Manual Testing Portfolio – Selfi Rizky Handayani
 
 Hi! I am a QA Analyst with over 2 years of experience in manual testing for various types of applications including e-commerce, HR systems, and internal company tools.
 
@@ -38,7 +37,7 @@ This portfolio contains documentation I commonly work with in manual testing, in
 
 ## 📬 Contact Me
 
-📧 Email: selfiqa@email.com  
+📧 Email: selfirizky90012a@email.com  
 🔗 LinkedIn: [linkedin.com/in/selfiqa](https://linkedin.com/in/selfiqa)
 
 Thank you for visiting my QA portfolio!
