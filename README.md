@@ -38,7 +38,7 @@ This portfolio contains documentation I commonly work with in manual testing, in
 ## 📬 Contact Me
 
 📧 Email: selfirizky90012a@email.com  
-🔗 LinkedIn: [linkedin.com/in/selfiqa](https://linkedin.com/in/selfiqa)
+🔗 LinkedIn: [[linkedin.com/in/selfiqa](https://www.linkedin.com/in/selfirizky/)]
 
 Thank you for visiting my QA portfolio!
 """
