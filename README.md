@@ -23,7 +23,7 @@ This portfolio contains documentation I commonly work with in manual testing, in
 
 | Folder | Contents |
 |--------|----------|
-| `01_test-planning` | Test plan and test strategy documents |
+| `01_test-planning` | Test plan and test strategy documents (test-plan-ecommerce.md) |
 | `02_test-design` | Test cases by module and traceability |
 | `03_bug-reporting` | Bug reports with severity and priority |
 | `04_test-execution` | Execution results and defect summary |
