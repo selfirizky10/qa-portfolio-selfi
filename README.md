@@ -43,9 +43,3 @@ This portfolio contains documentation I commonly work with in manual testing, in
 Thank you for visiting my QA portfolio!
 """
 
-# Save the translated README to file
-readme_en_path = "/mnt/data/README_en.md"
-with open(readme_en_path, "w") as f:
-    f.write(readme_en)
-
-readme_en_path
